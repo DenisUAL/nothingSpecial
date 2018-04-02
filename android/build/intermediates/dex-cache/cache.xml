@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/denys/Desktop/testReactNative (copy)/node_modules/react-native-linear-gradient/android/build/intermediates/bundles/debug/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3b11258fc7470dcabca5d3dc558f2fc26d077657">
+        <dex dex="/home/denys/Desktop/testReactNative (copy)/node_modules/react-native-linear-gradient/android/build/intermediates/pre-dexed/androidTest/debug/classes_1e24907c2aa83e9a1bd68b6bfdc12f65fb3ae1c8.jar" />
+    </item>
+
+</items>
